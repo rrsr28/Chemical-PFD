@@ -1,46 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg1605"
+   width="18.39267mm"
+   height="4.2302866mm"
+   viewBox="0 0 18.39267 4.2302866"
    version="1.1"
-   viewBox="0 0 7.218342 4.8078794"
-   height="4.8078794mm"
-   width="7.2183418mm">
+   id="svg329"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Globe Valve.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview331"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79285915"
+     inkscape:cx="165.85544"
+     inkscape:cy="194.86437"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs1599" />
-  <metadata
-     id="metadata1602">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     id="defs326" />
   <g
-     transform="translate(242.31682,-195.94439)"
-     id="layer1">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.549733,-96.996092)">
     <g
-       transform="translate(0.16789109,0.2885682)"
-       style="stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g2221">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -242.18205,196.17804 6.61458,3.73724 -0.008,-3.74326 -6.60892,3.77467 z"
-         id="path3918-6" />
-      <circle
-         style="stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none"
-         cy="198.05989"
-         cx="-238.87541"
-         id="path3926-3"
-         r="1.5" />
+       id="g3889"
+       transform="matrix(0.26458333,0,0,0.26458333,-88.653477,46.355653)">
+      <g
+         transform="translate(-448.49852,57.253562)"
+         id="g3924-3">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3918-6"
+           d="m 1038.4769,135.0265 25,14.125 -0.029,-14.14775 -24.9786,14.26647 z"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3920-7"
+           d="m 1038.9457,142.18275 h -22.75"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1085.7113,142.19837 h -22.75"
+           id="path3922-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <ellipse
+         style="stroke-width:1.57782"
+         ry="2.8792279"
+         rx="2.9181955"
+         cy="199.65581"
+         cx="602.44916"
+         id="path3926-3" />
     </g>
   </g>
 </svg>

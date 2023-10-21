@@ -269,6 +269,22 @@
             "class": "Valves",
             "object": "GateValve",
             "args": []
+        },
+
+        "Globe Valve": {
+            "name": "Globe Valve",
+            "icon": "./Valves/Globe Valve.png",
+            "class": "Valves",
+            "object": "GlobeValve",
+            "args": []
+        },
+
+        "Angle Valve": {
+            "name": "Angle Valve",
+            "icon": "./Valves/AngleValve.png",
+            "class": "Valves",
+            "object": "AngleValve",
+            "args": []
         }
 
     },
