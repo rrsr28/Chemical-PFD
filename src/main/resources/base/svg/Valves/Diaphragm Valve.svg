@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.39267mm"
+   height="8.2359581mm"
+   viewBox="0 0 18.39267 8.2359581"
+   version="1.1"
+   id="svg528"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Diaphragm Valve.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview530"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79285915"
+     inkscape:cx="125.49518"
+     inkscape:cy="42.252145"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs525">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5248"
+       is_visible="true"
+       lpeversion="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.228386,-137.37416)">
+    <g
+       id="g5286"
+       transform="matrix(0.26458333,0,0,0.26458333,-194.72064,37.523219)">
+      <g
+         transform="translate(-7.2544882,258.99818)"
+         id="g5244">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5238"
+           d="m 1038.4392,134.41292 25,14.125 -0.029,-14.179 -24.9786,14.29772 z"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5240"
+           d="m 1038.9457,142.18275 h -22.75"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1085.7113,142.19837 h -22.75"
+           id="path5242"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="csccc"
+         inkscape:original-d="m 1031.1149,392.80683 c 0.06,-0.70271 2.3582,-2.39435 3.4726,-4.08943 1.1144,-1.69508 6.5499,-2.23752 9.4951,-3.1204 2.9453,-0.88289 5.9813,2.71483 8.9266,3.30509 2.9453,0.59025 3.6985,4.92683 3.209,3.8588"
+         inkscape:path-effect="#path-effect5248"
+         inkscape:connector-curvature="0"
+         id="path5246"
+         d="m 1031.1149,392.80683 c 0.8786,-1.5705 2.0653,-2.96791 3.4726,-4.08943 2.6593,-2.11923 6.0958,-3.2107 9.4951,-3.1204 3.2315,0.0858 6.4423,1.23667 8.9266,3.30509 1.2928,1.0764 2.3864,2.39138 3.209,3.8588"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5250"
+         d="m 1043.6583,377.93929 v 8.13173"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5252"
+         d="m 1035.4592,377.88937 h 16.4402"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

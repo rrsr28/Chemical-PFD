@@ -285,6 +285,14 @@
             "class": "Valves",
             "object": "AngleValve",
             "args": []
+        },
+
+        "Diaphragm Valve": {
+            "name": "Diaphragm Valve",
+            "icon": "./Valves/DiaphragmValve.png",
+            "class": "Valves",
+            "object": "DiaphragmValve",
+            "args": []
         }
 
     },
