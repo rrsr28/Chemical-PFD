@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.39267mm"
+   height="6.5205722mm"
+   viewBox="0 0 18.39267 6.5205722"
+   version="1.1"
+   id="svg686"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Ball Valve.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview688"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79285915"
+     inkscape:cx="110.36008"
+     inkscape:cy="-22.072016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs683">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5337"
+       id="linearGradient5339"
+       x1="1984.75"
+       y1="355.54968"
+       x2="1992"
+       y2="355.54968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3314044,0,0,1.4040266,-1136.725,691.907)" />
+    <linearGradient
+       id="linearGradient5337"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5335" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.232882,-154.58353)">
+    <g
+       id="g5376"
+       transform="matrix(0.26458333,0,0,0.26458333,-190.49529,23.847828)">
+      <g
+         transform="translate(-8.089212,368.63203)"
+         id="g5331">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5325"
+           d="m 1038.4769,135.0265 25,14.125 -0.029,-14.14775 -24.9786,14.26647 z"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5327"
+           d="m 1038.9457,142.18275 h -22.75"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1085.7113,142.19837 h -22.75"
+           id="path5329"
+           inkscape:connector-curvature="0" />
+      </g>
+      <ellipse
+         ry="4.8263412"
+         rx="4.8263416"
+         cy="510.8692"
+         cx="1043.1608"
+         id="path5333"
+         style="fill:#ffffff;stroke:url(#linearGradient5339);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5341"
+         d="m 1043.2858,505.74421 v -11.125 h 8"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

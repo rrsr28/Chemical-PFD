@@ -293,6 +293,14 @@
             "class": "Valves",
             "object": "DiaphragmValve",
             "args": []
+        },
+
+        "Ball Valve": {
+            "name": "Ball Valve",
+            "icon": "./Valves/BallValve.png",
+            "class": "Valves",
+            "object": "BallValve",
+            "args": []
         }
 
     },

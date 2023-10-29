@@ -1105,6 +1105,13 @@ class DiaphragmValve(NodeItem):
             [0, 24.5, 'top']
         ]
 
+class BallValve(NodeItem):
+    def __init__(self):
+        super(BallValve, self).__init__("svg/Valves/Ball Valve")
+        self.grips = [
+            [100, 33, 'top'],
+            [0, 33, 'top']
+        ]
 
 class CentrifugalPump(NodeItem):
     def __init__(self):
